@@ -45,6 +45,4 @@ Durante a análise, procurei responder às seguintes questões:
 
 ---
 
-## 📁 Estrutura do Projeto
-
 
